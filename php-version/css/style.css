@@ -1,0 +1,22 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+    background-image: url(../img/ugur-akdemir-FABH5NJEMGM-unsplash.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    z-index: -1;
+  }
+  
+  
+  .login{
+  
+    width:360px;
+    margin: 50px auto;
+    border-radius: 10px;
+    
+    padding: 12px 35px 26px;
+    margin-top:70px;
+    background-color: rgba(0,0,0,0.5);
+  
+  }
+  
